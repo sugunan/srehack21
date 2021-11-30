@@ -1,0 +1,7 @@
+10000	Invoice missing for 3 customers	high	0.938
+10001	We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring. 	high	0.896
+10985	We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring. 	high	0.938
+10986	One of our customers order related details missing in the system. We need to dispatch the purchase item. We can see following invoice ID on the hard copy.	high	0.938
+10987	Three of our customers purchase related invoice missing in the system. We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring.	high	0.938
+10988	Invoice missing for 3 customers	high	0.938
+10989	Sales report of last week	high	0.938

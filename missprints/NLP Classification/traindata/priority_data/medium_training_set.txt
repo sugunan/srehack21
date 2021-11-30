@@ -1,0 +1,7 @@
+10095	Hi Team<br><br> I have difficulty to login to DB server <strong>Oracle</strong> via sql developer. <br>Appriciate if you can attend to the issue at your earliest convenion. <br><br>Thank you<br>O.Watson	medium	0.867
+10096	Subject: DB server not responding to sql developer	medium	0.831
+11098	We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring. 	medium	0.938
+10986	One of our customers order related details missing in the system. We need to dispatch the purchase item. We can see following invoice ID on the hard copy.	medium	0.938
+10987	Three of our customers purchase related invoice missing in the system. We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring.	medium	0.938
+10988	Invoice missing for 3 customers	medium	0.938
+10989	Sales report of last week	medium	0.938

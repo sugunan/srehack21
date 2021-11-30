@@ -1,0 +1,13 @@
+10000	Warranty details missing for a client	request	0.938
+10001	One of our customers purchase related invoice missing in the system. 	request	0.896
+10002	We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring.	request	0.896
+10003	Could you please chack and let us know ASAP.	request	0.896
+10004	Order details missing for customer	request	0.896
+10005	One of our customers order related details missing in the system. We need to dispatch the purchase item. We can see following invoice ID on the hard copy.	request	0.875
+10006	SSL certificate will expire soon	request	0.875
+10007	The SSL certificate will be expire in one month. So we need to raise order request for new certificate purchase.	request	0.875
+10008	Laptop to be allocated for new member	request	0.875
+10009	Ragav will be joining our team as PHP developer from December 1st. Please arrange a laptop for him. The approvals will be shared separatley. 	request	0.875
+10010	I need the salse report of last week. Could you please send it as soon as possible.	request	0.667
+10011	Three of our customers purchase related invoice missing in the system. We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring.	request	0.854
+10012	Sample Laptop to be allocated for new member	request	0.854

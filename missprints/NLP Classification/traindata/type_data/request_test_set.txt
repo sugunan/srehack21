@@ -1,0 +1,13 @@
+10000	Warranty details missing for a client	request	NONE
+10001	One of our customers purchase related invoice missing in the system. 	request	NONE
+10002	We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring.	request	NONE
+10003	Could you please chack and let us know ASAP.	request	NONE
+10004	Order details missing for customer	request	NONE
+10005	One of our customers order related details missing in the system. We need to dispatch the purchase item. We can see following invoice ID on the hard copy.	request	NONE
+10006	SSL certificate will expire soon	request	NONE
+10007	The SSL certificate will be expire in one month. So we need to raise order request for new certificate purchase.	request	NONE
+10008	Laptop to be allocated for new member	request	NONE
+10009	Ragav will be joining our team as PHP developer from December 1st. Please arrange a laptop for him. The approvals will be shared separatley. 	request	NONE
+10010	I need the salse report of last week. Could you please send it as soon as possible.	request	NONE
+10011	Three of our customers purchase related invoice missing in the system. We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring.	request	NONE
+10012	Sample Laptop to be allocated for new member	request	NONE

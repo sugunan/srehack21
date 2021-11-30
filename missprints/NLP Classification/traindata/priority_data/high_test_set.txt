@@ -1,0 +1,7 @@
+10941	Very disapinted as delayied	high	NONE
+10942	There was a work around given to me as quick solution.But still I have the same slowness issue.Very disapointed by your service.	high	NONE
+10943	Very disapointed by your service.Hoppinf not to reach your service again.	high	NONE
+10944	I have difficulty to login to DB server Oracle via sql developer.Appriciate if you can attend to the issue at your earliest convenion.	high	NONE
+10945	I have difficulty to login to app server PHP via SSH.Appriciate if you can attend to the issue at your earliest convenion.	high	NONE
+10946	I have difficulty to login to app server PHP via SSH.Appriciate if you can attend to the issue at your earliest convenion.	high	NONE
+10947	I need the salse report of last week. Could you please send it as soon as possible.	high	NONE
