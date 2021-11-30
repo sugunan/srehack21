@@ -4,7 +4,7 @@ const port = 3000;
 const MOMENT = require('moment');
 const axios = require('axios')
 const db_config = require("./config/config")
-
+const getTypeID = require('./utils/utils');
 // parse requests of content-type - application/json
 app.use(express.json());
 
@@ -26,13 +26,13 @@ app.get('/', (req, res) => {
 app.post('/incoming_mails', (req, res) => {
 
     //Get the type from the NLP Service
-    axios.post('', {
+    axios.post(process.env.NLPURL, {
         content: req.body.headers.subject + " " + req.body.plain.replace(/\n/g, '')
     }).then(resp => {
 
         //Insert data into the database
         let datetime = MOMENT().format('YYYY-MM-DD');
-        let str = 'INSERT INTO `email`(`from_email`, `opened_date_time`, `email_subject`, `email_content`, `email_type`, `priority`, `closed_time`, `email_status`, `time_difference`, `ticketID`)  VALUES ("' + req.body.headers.from + '","' + datetime + '", "' + req.body.headers.subject + '", "' + req.body.plain.replace(/\n/g, '') + '", "1", 1, "22-21-12", "sdcdsc", 2, 2)';
+        let str = 'INSERT INTO `email`(`from_email`, `opened_date_time`, `email_subject`, `email_content`, `email_type`, `priority`, `closed_time`, `email_status`, `time_difference`, `ticketID`)  VALUES ("' + req.body.headers.from + '","' + datetime + '", "' + req.body.headers.subject + '", "' + req.body.plain.replace(/\n/g, '') + '", "'+resp.category+'", '+resp.priority+', "22-21-12", "sdcdsc", 2, 2)';
 
         connection.query(str);
 
@@ -58,10 +58,10 @@ app.post('/incoming_mails', (req, res) => {
                     "id": "10008"
                 },
                 "project": {
-                    "id": "10002"
+                    "id": getTypeID(resp.category)
                 },
                 "labels": [
-                    "HIGH"
+                    resp.priority
                 ]
             }
         });
@@ -81,8 +81,8 @@ app.post('/incoming_mails', (req, res) => {
                 console.log(JSON.stringify(response.data));
 
                 //Send SMS
-                axios.post('', {
-                    "message": `HIGH Priority ${resp.fsf} \n ${req.body.headers.subject}`
+                axios.post(process.env.SMSURL, {
+                    "message": `HIGH Priority ${resp.category} \n ${req.body.headers.subject}`
                 }).then(response1 => {
                     res.status(200).send({
                         message: "Success",
