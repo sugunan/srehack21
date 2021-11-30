@@ -82,7 +82,9 @@ app.post('/incoming_mails', (req, res) => {
 
                 //Send SMS
                 axios.post(process.env.SMSURL, {
-                    "message": `HIGH Priority ${resp.category} \n ${req.body.headers.subject}`
+                    "To": "+94771655198",
+                    "apiKey": process.env.TWILIO_API_KEY,
+                    "Body": `HIGH Priority ${resp.category} \n ${req.body.headers.subject}`
                 }).then(response1 => {
                     res.status(200).send({
                         message: "Success",
