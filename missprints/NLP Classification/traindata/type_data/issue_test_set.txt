@@ -1,0 +1,12 @@
+10941	Very disapinted as delayied	issue	NONE
+10942	There was a work around given to me as quick solution.But still I have the same slowness issue.Very disapointed by your service.	issue	NONE
+10943	Very disapointed by your service.Hoppinf not to reach your service again.	issue	NONE
+10944	I have difficulty to login to DB server Oracle via sql developer.Appriciate if you can attend to the issue at your earliest convenion.	issue	NONE
+10945	I have difficulty to login to app server PHP via SSH.Appriciate if you can attend to the issue at your earliest convenion.	issue	NONE
+10946	I have difficulty to login to app server PHP via SSH.Appriciate if you can attend to the issue at your earliest convenion.	issue	NONE
+10947	I need the salse report of last week. Could you please send it as soon as possible.	issue	NONE
+10948	Very disapointed by your service.Hoppinf not to reach your service again.	issue	NONE
+10949	I would like to thank you for the prompt responseHi Sam	issue	NONE
+10950	I would like to thank you for the timely help. And for promptly solving the access issue.	issue	NONE
+10951	DB server not responding to sql developer	issue	NONE
+10952	I have difficulty to login to DB server Oracle via sql developer.Appriciate if you can attend to the issue at your earliest convenion	issue	NONE

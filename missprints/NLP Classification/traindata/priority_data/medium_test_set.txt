@@ -1,0 +1,10 @@
+10980	Could you please provide a proper dead line to fix the access issue. Or let me know whom to contact.	medium	NONE
+10981	Could you please provide a proper dead line to fix the access issue. Or let me know whom to contact.	medium	NONE
+10982	Account expired for my team member	medium	NONE
+10983	One of our customers purchase related invoice missing in the system.	medium	NONE
+10984	Order details missing for customer	medium	NONE
+10985	We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring. 	medium	NONE
+10986	One of our customers order related details missing in the system. We need to dispatch the purchase item. We can see following invoice ID on the hard copy.	medium	NONE
+10987	Three of our customers purchase related invoice missing in the system. We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring.	medium	NONE
+10988	Invoice missing for 3 customers	medium	NONE
+10989	Sales report of last week	medium	NONE

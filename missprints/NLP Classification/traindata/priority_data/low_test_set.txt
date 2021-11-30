@@ -1,0 +1,8 @@
+10941	I would like to thank you for the timely help. And for promptly solving the access issue.	low	NONE
+10942	I would like to thank you for the timely help. And for promptly solving the access issue.	low	NONE
+10943	Sample Thank you very much for the prompt response	low	NONE
+10944	We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring. 	low	NONE
+10986	One of our customers order related details missing in the system. We need to dispatch the purchase item. We can see following invoice ID on the hard copy.	low	NONE
+10987	Three of our customers purchase related invoice missing in the system. We need to issue waranty for the purchase item. We can see following invoice ID on the hard copy they bring.	low	NONE
+10988	Invoice missing for 3 customers	low	NONE
+10989	Sales report of last week	low	NONE

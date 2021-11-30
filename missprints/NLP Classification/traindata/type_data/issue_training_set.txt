@@ -1,0 +1,8 @@
+20000	Very disapinted as delayied	issue	0.979
+20001	Last friday I requested to fix the wifi issue. As I had my client meeting by last monday.	issue	0.979
+20002	There was a work around given to me as quick solution.But still I have the same slowness issue.Very disapointed by your service.	issue	0.975
+20003	Very disapointed by your service.Hoppinf not to reach your service again.	issue	0.938
+20004	I would like to thank you for the prompt responseHi Sam	issue	0.938
+20005	I would like to thank you for the timely help. And for promptly solving the access issue.	issue	0.938
+20006	DB server not responding to sql developer	issue	0.938
+20007	I have difficulty to login to DB server Oracle via sql developer.Appriciate if you can attend to the issue at your earliest convenion	issue	0.938
